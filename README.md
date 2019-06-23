@@ -3,4 +3,4 @@ Vanilla JS RockPaperScissors.
 
 ### Demo
 
-[Here](https://liliancai.github.io/RockPaperScissors/)
+[Here](https://yeecai.github.io/RockPaperScissors/)
